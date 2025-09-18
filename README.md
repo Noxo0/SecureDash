@@ -1,6 +1,6 @@
 # SecureDash
 
-![SecureDash preview](./attached_assets/preview.svg)
+![SecureDash preview](./attached_assets/preview.png)
 
 A small full‑stack security dashboard I use for demos. It has an Express API, a Vite/React client, JWT auth, in‑memory storage (no DB needed to try it), and a clean UI.
 
